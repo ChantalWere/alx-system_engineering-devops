@@ -1,2 +1,2 @@
-Display the contents list of your current directory
-Task 1.What’s in there?
+Display current directory contents in a long format
+Task 3. The long format
