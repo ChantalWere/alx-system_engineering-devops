@@ -1,2 +1,2 @@
-Display current directory contents in a long format
-Task 3. The long format
+Display current directory contents.
+Task 5. I love numbers
