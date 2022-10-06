@@ -1,2 +1,2 @@
-Create a magic file school.mgc that can be used with the command file to detect School data files
-Task 19. File type: School
+Create a script that switches the current user to the user betty
+Task 0. My name is Betty
