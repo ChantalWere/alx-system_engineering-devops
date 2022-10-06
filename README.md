@@ -1,2 +1,2 @@
-Write a script that changes the owner of the file hello to betty only if it is owned by the user guillaume
-Task 16. If only
+Write a script that changes the owner and the group owner of _hello to vincent and staff respectively.
+Task 15. Symbolic links
