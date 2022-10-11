@@ -1,2 +1,2 @@
-Write a script that displays all users and their home directories, sorted by users
-Task 22. DJ Cut Killer
+Write a script that prints “Hello, World”, followed by a new line to the standard output
+Task 0. Hello World
