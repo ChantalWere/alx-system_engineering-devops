@@ -1,2 +1,2 @@
-Write a script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory
-Task 14. Owner and group
+Write a script that prints “Hello, World”, followed by a new line to the standard output
+Task 0. Hello World
